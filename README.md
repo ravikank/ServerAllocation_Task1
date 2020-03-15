@@ -1,4 +1,4 @@
-# ServerAllocation_Task1
+# ServerAllocation Task1 and Task3
 Task 1 - Implement Weighted Round Robin algorithm for server allocation.
 
 Task 3 - How you will make Task 2 more secure.
